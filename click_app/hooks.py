@@ -172,4 +172,5 @@ user_data_fields = [
 # auth_hooks = [
 # 	"click_app.auth.validate"
 # ]
+fixtures = ["Custom Field"]
 
